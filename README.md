@@ -1,24 +1,28 @@
-# blog
+# Z. BLOG 开发记录
 
-## Project setup
-```
-npm install
-```
+### 2021/07/29
+1. 安装element-plus：
+```npm install element-plus --save```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+2. 按需引入element-plus：
+* ```npm install babel-plugin-import -D```
+* ```import { ElButton, ElSelect } from 'element-plus'```
+* ```app.component(ElButton.name, ElButton)```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+3. 主页导航栏基本样式编写
 
-### Lints and fixes files
+### 2021/07/30
+1. 添加NProgress  
+* 来源：https://github.com/rstacruz/nprogress
 ```
-npm run lint
+npm i --save NProgress
+npm i --save-dev @types/nprogress
 ```
+2. 添加axios拦截器 utils>request.ts
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### 2021/08/02
+1. 首页的基本编写
+
+### 2021/08/03
+1. 页面导航编写

@@ -1,0 +1,35 @@
+.navigate_style {
+    float: right;
+    height: 20px;
+ }
+.home_main_content{
+   display: inline-block;
+   width: 20%;
+}
+
+#home_main_content_img1{
+   display: inline-block;
+   width: 20vw;
+   margin-left: 7vw;
+   margin-top: 10vh;
+}
+#home_main_content_img2{
+   display: inline-block;
+   width: 20vw;
+   margin-left: 1vw;
+}
+#home_main_content_title{
+   margin-top: 15vh;
+   margin-left: 6vw;
+   font-family: "plantc", "Source Han Serif", serif;
+   opacity: 0.9;
+}
+.home_main_content_title1{
+   font-size: 5vw;
+   line-height: 30px;
+}
+#home_main_content_title2{
+   font-size: 2vw;
+   line-height: 10px;
+   opacity: 0.8;
+}

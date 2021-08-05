@@ -1,0 +1,15 @@
+.about{
+    text-align: center;
+}
+#about_img {
+    display: inline-block;
+    width: 65vw;
+}
+.about_content_title{
+    text-align: start;
+    font-weight: bold;
+}
+.about_content{
+    font-size: 1.2vw;
+    text-align: start;
+}

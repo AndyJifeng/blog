@@ -1,0 +1,9 @@
+{
+    "navigate_item_data":[
+        {"name":"首页","value":"/hello"},
+        {"name":"学习记录","value":"/learningRecord"},
+        {"name":"关于博客","value":"/hello"},
+        {"name":"关于我","value":"/about"},
+        {"name":"Github","value":"/hello"}
+    ]
+}
